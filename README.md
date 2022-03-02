@@ -8,5 +8,6 @@
 
   
 ##
- 
-![Snake animation](https://github.com/OtavioAMota/OtavioAMota/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/OtavioAMota/OtavioAMota/blob/output/github-contribution-grid-snake.gif)
+
