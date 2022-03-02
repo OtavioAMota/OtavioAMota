@@ -9,4 +9,4 @@
   
 ##
  
-![Snake animation](https://github.com/OtavioAMota/OtavioAMotai/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/OtavioAMota/OtavioAMota/blob/output/github-contribution-grid-snake.svg)
